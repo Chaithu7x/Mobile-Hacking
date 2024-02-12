@@ -15,3 +15,4 @@ Instructions
 &emsp;•	set lport 4444 <br>
 8. Then run the metasploit 
 9. Now we can exploit the mobile and get whatever we want like call histrory, messages, contacts and many more.
+10. The provided files serve as a reference for the project
